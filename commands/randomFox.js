@@ -3,7 +3,7 @@ const request = require('request')
 
 module.exports = {
     name: 'fox',
-    description: 'Send random pic fox 🦊',
+    description: 'Send random fox pic 🦊',
     run: async (bot, message, args) => {
         request({
             url: 'https://randomfox.ca/floof/',

@@ -3,7 +3,7 @@ const request = require('request')
 
 module.exports = {
     name: 'cat',
-    description: 'Send random pic cat 😺',
+    description: 'Send random cat pic 😺',
     run: async (bot, message, args) => {
         request({
             url: 'https://aws.random.cat/meow',
