@@ -1,1 +1,36 @@
-{"users":[{"username":"kys.bot#6818","userXP":0,"userLevel":10},{"username":"Super1Freak#1988","userXP":17,"userLevel":1,"userMainStatus":"котiк","userStatusColor":"#2b55fc","userRegister":"2016-11-25T13:46:03.386Z","userCustomStatus":" "},{"username":"miro#7115","userXP":134,"userLevel":100,"userMainStatus":"🦷caries boi","userStatusColor":"#FFC24D","userCustomStatus":"🔹 ","userRegister":"2017-02-06T12:52:37.196Z"}]}
+{
+  "users": [
+    {
+      "username": "kys.bot#6818",
+      "userXP": 0,
+      "userLevel": 10
+    },
+    {
+      "username": "Super1Freak#1988",
+      "userXP": 17,
+      "userLevel": 1,
+      "userMainStatus": "котiк",
+      "userStatusColor": "#2b55fc",
+      "userRegister": "2016-11-25T13:46:03.386Z",
+      "userCustomStatus": " "
+    },
+    {
+      "username": "miro#7115",
+      "userXP": 134,
+      "userLevel": 100,
+      "userMainStatus": "🦷caries boi",
+      "userStatusColor": "#FFC24D",
+      "userCustomStatus": "🔹 ",
+      "userRegister": "2017-02-06T12:52:37.196Z"
+    },
+    {
+      "username": "todayisthelastday#7366",
+      "userXP": 0,
+      "userLevel": 0,
+      "userMainStatus": "user",
+      "userStatusColor": "#4DFF5E",
+      "userCustomStatus": " ",
+      "userRegister": "2017-02-06T12:52:37.196Z"
+    }
+  ]
+}

@@ -2,7 +2,7 @@ const { Client, MessageAttachment, Collection, MessageEmbed, Guild } = require('
 const client = new Client()
 const fs = require('fs')
 const config = require('./config.json')
-require('dotenv').config()
+// require('dotenv').config()
 
 client.commands = new Collection()
 
